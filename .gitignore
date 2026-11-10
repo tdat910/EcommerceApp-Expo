@@ -42,6 +42,5 @@ example
 /ios
 /android
 
-/app/
 .claude/
 .vscode/
